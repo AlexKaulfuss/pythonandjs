@@ -1,0 +1,21 @@
+ERROR EXPLANATIONS
+
+1. py_factorial_error.py
+Error: Loop stops too early (off-by-one).
+Fix: Change range(1, n) to range(1, n+1).
+
+2. py_count_vowels_error.py
+Error: Only counts lowercase vowels.
+Fix: Include uppercase vowels or convert text to lowercase.
+
+3. js_for_loop_error.js
+Error: Loop prints 1–9 instead of 1–10.
+Fix: Change i < 10 to i <= 10.
+
+4. js_grades_error.js
+Error: Adds 5 to each grade before printing.
+Fix: Remove +5.
+
+5. extra_error.py
+Error: Finds lowest number instead of highest.
+Fix: Change < to > in comparison.
